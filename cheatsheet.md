@@ -2,6 +2,23 @@
 
 ## Anaconda
 
+
+### Installation
+
+```
+bash Anaconda-latest-Linux-x86_64.sh
+conda list
+```
+
+- https://conda.io/docs/user-guide/install/linux.html
+
+### Run App
+
+```
+anaconda-navigator
+spyder
+```
+
 ### Conda
 
 #### Managing packages
@@ -16,11 +33,7 @@ conda search package_name
 
 - https://conda.io/docs/user-guide/tasks/manage-pkgs.html
 
-#### Run App
 
-```
-spyder
-```
 
 #### Managing Channels
 
@@ -41,4 +54,4 @@ conda update anaconda
 
 - https://conda.io/docs/user-guide/index.html
 
-### Conda
+

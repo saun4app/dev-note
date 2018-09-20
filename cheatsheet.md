@@ -18,6 +18,14 @@ conda search package_name
 - https://conda.io/docs/user-guide/tasks/manage-pkgs.html
 
 
+#### Manage Conda
+```
+conda info
+conda update conda
+conda update anaconda
+conda update anaconda-navigator
+conda update navigator-updater
+```
 
 #### Managing Channels
 
@@ -27,12 +35,7 @@ conda config --add channels new_channel
 
 - https://conda.io/docs/user-guide/tasks/manage-channels.html
 
-#### Manage Conda
-```
-conda info
-conda update conda
-conda update anaconda
-```
+
 
 ### Manage Anaconda 
 
@@ -51,7 +54,6 @@ conda list
 anaconda-navigator
 spyder
 ```
-
 
 ### Resources
 

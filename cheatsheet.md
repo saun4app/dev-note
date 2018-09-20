@@ -31,6 +31,7 @@ conda update navigator-updater
 
 ```
 conda config --add channels new_channel
+conda config --append channels new_channel
 ```
 
 - https://conda.io/docs/user-guide/tasks/manage-channels.html
@@ -60,3 +61,22 @@ spyder
 - https://conda.io/docs/user-guide/index.html
 
 
+## Vagrant
+
+```
+vagrant destroy
+```
+
+### clone 
+```
+vagrant package [name]
+```
+
+- https://www.vagrantup.com/docs/cli/package.html
+
+
+## Ubuntu
+
+
+
+- https://snapcraft.io/

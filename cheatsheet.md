@@ -75,8 +75,33 @@ vagrant package [name]
 - https://www.vagrantup.com/docs/cli/package.html
 
 
+## Docker
+
+
+- https://dockstation.io/
+
+## Docker Compose
+
+- https://github.com/docker/compose/releases
+
+
 ## Ubuntu
 
+### yarn
+
+- https://tecadmin.net/install-yarn-debian/
+- https://yarnpkg.com/lang/en/docs/install/#debian-stable
 
 
+### Snap
+
+```
+snap find hello
+```
+
+- https://docs.snapcraft.io
+
+```
 - https://snapcraft.io/
+- https://snapcraft.io/store
+```

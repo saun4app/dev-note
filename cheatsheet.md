@@ -100,9 +100,14 @@ vagrant package [name]
 ### Snap
 
 ```
-snap find hello
+sudo snap find 
+sudo snap install <package_name>
+sudo snap list
+sudo snap changes
+sudo snap refresh <package_name>
+udo snap remove <package_name>
 ```
-
+- https://docs.snapcraft.io/reference/snap-command
 - https://docs.snapcraft.io
 
 ```

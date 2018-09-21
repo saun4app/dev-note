@@ -36,6 +36,7 @@ conda config --append channels new_channel
 ```
 
 - https://conda.io/docs/user-guide/tasks/manage-channels.html
+- https://conda-forge.org
 
 
 

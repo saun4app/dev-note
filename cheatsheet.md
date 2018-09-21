@@ -131,3 +131,8 @@ yarn global add <package_name>
 
 
 - https://yarnpkg.com/lang/en/docs/cli
+
+
+## Git
+
+- https://www.gitignore.io/

@@ -31,6 +31,8 @@ conda update navigator-updater
 
 ```
 conda config --add channels conda-forge 
+conda config --append channels conda-forge
+
 conda config --add channels new_channel
 conda config --append channels new_channel
 ```

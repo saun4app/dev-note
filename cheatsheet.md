@@ -93,6 +93,17 @@ vagrant package [name]
 
 ### yarn
 
+```
+yarn global add  <package_name>
+yarn global remove  <package_name>
+yarn global list
+yarn upgrade
+```
+
+```
+export PATH="$PATH:$(yarn global bin)"
+```
+
 - https://tecadmin.net/install-yarn-debian/
 - https://yarnpkg.com/lang/en/docs/install/#debian-stable
 

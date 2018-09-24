@@ -91,6 +91,21 @@ vagrant package [name]
 
 ## Ubuntu
 
+###
+
+```
+sudo apt -y update
+sudo apt -y upgrade
+sudo apt -y dist-upgrade
+```
+
+###
+
+Removing unused packages
+```
+sudo apt autoremove
+```
+
 ### yarn
 
 ```

@@ -65,6 +65,12 @@ spyder
 - https://conda.io/docs/user-guide/index.html
 
 
+## CDN
+
+- https://unpkg.com/#/
+- https://cdnjs.com/
+
+
 ## Vagrant
 
 ```

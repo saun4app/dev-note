@@ -106,6 +106,17 @@ Removing unused packages
 sudo apt autoremove
 ```
 
+### Error
+
+
+Error: ENOSPC: no space left on device
+
+```
+sudo sysctl fs.inotify.max_user_watches=999999999
+sudo tee -a /etc/sysctl.conf
+sudo sysctl --system
+```
+
 ### yarn
 
 ```

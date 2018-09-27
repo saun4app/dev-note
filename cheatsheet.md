@@ -134,6 +134,7 @@ yarn upgrade
 
 ### command not found
 
+Some packages seem to have problems with `yarn gloabl` when they work with `npm install -g`.
 
 #### graphic mode
 

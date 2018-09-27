@@ -132,9 +132,32 @@ yarn global list
 yarn upgrade
 ```
 
+### command not found
+
+
+#### graphic mode
+
+Run `gedit ~/.profile`
+
+Add
 ```
 export PATH="$PATH:$(yarn global bin)"
 ```
+
+Run `source ~/.profile`
+
+
+#### console mode
+
+Run `gedit ~/.bash_profile`
+
+Add
+```
+export PATH="$PATH:$(yarn global bin)"
+```
+
+Run `source ~/.bash_profile`
+
 
 - https://tecadmin.net/install-yarn-debian/
 - https://yarnpkg.com/lang/en/docs/install/#debian-stable

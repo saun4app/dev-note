@@ -165,6 +165,23 @@ udo snap remove <package_name>
 
 ## Nodejs
 
+
+## Install nvm
+
+```
+wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
+nvm --version
+nvm install node
+nvm use node
+```
+
+- https://github.com/creationix/nvm/blob/master/README.md#installation
+
+## How to Prevent Permissions Errors
+
+- https://docs.npmjs.com/getting-started/fixing-npm-permissions
+
+
 ### Yarn
 
 ```
